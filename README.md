@@ -1,7 +1,5 @@
 # Group06_Rice_Varieties_Microscopic_CSE475
 
-# Rice Varieties (Microscopic)
-
 **Description:** This project focuses on analyzing microscopic rice images for rice variety classification.
 
 **Group:** 06
